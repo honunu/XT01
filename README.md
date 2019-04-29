@@ -10,7 +10,11 @@ To make things simple, we define the glass to hold tap boiled water, 80% filled.
 3. We assume the water is drinkable.
 4. We assume the glass will not break when we grab it.
 
-Animals also make assumptions. I was watching a cat walking with her child one afternoon. The kitten's mother does not walk alongside with her child. She walks a few meters before her child catches up. The kitten won't walk unless its mother proves it's safe. 
+Animals also make assumptions. I was watching a cat walking with her child one afternoon. The kitten's mother does not walk alongside with her child. She walks a few meters before her child catches up. The kitten won't walk unless its mother proves it's safe. I stepped forward and cut in between them before the kitten reached its mom. The kitten stared at me, scared, waiting for a chance to move.
+
+Normal person wouldn'd find their behaviors amazing, but I was stunned. The mother assumed she could protect her kitten, so she walked in front, but apparently I could easily took the kitten away, she had not chance of protecting her child against me. This is much like human behaviours when a boy holds a girl's hand, leading the girl into unknown areas. 
+
+Some basic logics are universal among living creatures, especially those related to primitive emotions. 
 
 ### What is XT01
 XT01 is a tool to break down behaviours. 
